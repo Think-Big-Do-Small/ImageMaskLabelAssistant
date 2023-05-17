@@ -23,7 +23,7 @@ Label an image with masks with just several steps of mouse click.
 NOTES. <br><br>
 Run Programs with opencv and pyqt. 
 
-- Release Version - [ImageMaskLabelAssistant](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/blob/main/image_label_demo.gif)
+- Release Version - [ImageMaskLabelAssistant](http://www.aizaozhidao.vip/tuzikuaipao)
 
 - Demo : generate image masks with mouse click 
 - ![GithubHeader](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/blob/main/image_label_demo.gif) <br>
