@@ -32,8 +32,7 @@ Run Programs with opencv and pyqt.
 ### ImageMaskLabelAssistant NOTES  
 - ImageMaskLabelAssistant - [ImageMaskLabelAssistant](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/blob/main/image_label_demo.gif)
 ```bash
- Science is a wonderful thing, if one has no need to make a living of it. 
-                                                               by 爱因斯坦
+ Science is a wonderful thing, if one has no need to make a living of it.     ——  by 爱因斯坦
  
 ```
 
