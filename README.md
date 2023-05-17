@@ -1,5 +1,5 @@
 # ImageMaskLabelAssistant (图像数据集标注助手)
-- Label an image with masks with just several steps of mouse click.<br>
+- Label an image to generate masks with just several steps of mouse click.<br>
 - With this polygon labeling tool, generating a custom image dataset for deep learning pipeline is much more easier. <br>
 - I believe you will love it, if you continue to find new tricks of this tool. <br>
 - Not yet, it is just a prepraring to release version, with so many bugs needed to be fixed. <br>
