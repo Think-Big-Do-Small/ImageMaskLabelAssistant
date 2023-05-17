@@ -1,4 +1,4 @@
-# ImageMaskLabelAssistant
+# ImageMaskLabelAssistant (图像数据集标注助手)
 Label an image with masks with just several steps of mouse click.
 
 - source image 
@@ -33,7 +33,7 @@ Run Programs with opencv and pyqt.
 - ImageMaskLabelAssistant - [ImageMaskLabelAssistant](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/blob/main/image_label_demo.gif)
 ```bash
  Science is a wonderful thing, if one has no need to make a living of it.     ——  by 爱因斯坦
- 
+
 ```
 
 ### About Me 
