@@ -2,7 +2,7 @@
 Label an image with masks with just several steps of mouse click.
 
 # ImageMaskLabelAssistant
-### Image Mask Label Assistant with OpenCV Toolkit.
+### Image Mask Labeling Assistant with OpenCV Toolkit and PyQt.
 
 ![GithubHeader](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/blob/main/image_label_demo.gif)
 # ImageMaskLabelAssistant
