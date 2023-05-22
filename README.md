@@ -102,9 +102,9 @@ def CvMat2QPixmap(mat_image):
 - I am recently doing some image segmentation projects with c++, python and cuda background matting etc. <br> 
 
 ### About Software Development Experience
+- 图像数据集多边形标注助手 - [ImageMaskLabelAssistant](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/tree/main/release/alpha%20version%201.0.0)
 - CvImageProcessingAssistant - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/CvImageProcessingAssistant) <br>
 - Cuda-OpenCV-Object-Detection-Demo - [CvImageProcessingAssistant](https://github.com/Think-Big-Do-Small/Cuda-OpenCV-Object-Detection-Demo)<br> 
-- 图像数据集多边形标注助手 - [ImageMaskLabelAssistant](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/tree/main/release/alpha%20version%201.0.0)
 - RabbitRun(smart file packaging with high speed and efficiency)  <br> 
 visit site: www.aizaozhidao.vip/tuzikuaipao 
 - AI早知道(ai related projects for demostration) <br> 
