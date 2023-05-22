@@ -38,7 +38,7 @@ NOTES. <br><br>
 Run Programs with opencv and pyqt. 
 
 - Release Version - [下载地址一](http://www.aizaozhidao.vip/tuzikuaipao)  [下载地址2](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/tree/main/release/alpha%20version%201.0.0)
-- Demo : generate image masks with mouse click 
+- Demo : generate image polygon masks with only mouse click 
 - ![GithubHeader](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/blob/82f0af09f44a2e0ef55c782f6315134fdf2fe4d0/test_label_demo.gif) <br>
 
 
