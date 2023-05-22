@@ -9,9 +9,6 @@ import numpy as np
 pic_dir = 'test2.png' 
 img = cv2.imread(pic_dir) 
 
-
-print (img.shape) 
-
 pic_name = "".join(pic_dir.split('.')[:-1])
 
 json_dir = pic_name + '_label.json' 
@@ -21,7 +18,7 @@ fp = open(json_dir, 'r')
 pic_label_dict = json.load(fp) 
 fp.close() 
 
-#print (pic_label_dict) 
+
 FINAL_LINE_COLOR_WHITE = (255, 255, 255)
 FINAL_LINE_COLOR_BLACK = (0, 0, 0)
 
