@@ -37,14 +37,14 @@
 NOTES. <br><br>
 Run Programs with opencv and pyqt. 
 
-- Release Version - [ImageMaskLabelAssistant](http://www.aizaozhidao.vip/tuzikuaipao)  [下载地址2](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/tree/main/release/alpha%20version%201.0.0)
+- Release Version - ImageMaskLabelAssistant [下载地址一](http://www.aizaozhidao.vip/tuzikuaipao)  [下载地址2](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/tree/main/release/alpha%20version%201.0.0)
 
 - Demo : generate image masks with mouse click 
 - ![GithubHeader](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/blob/82f0af09f44a2e0ef55c782f6315134fdf2fe4d0/test_label_demo.gif) <br>
 
 
 ### ImageMaskLabelAssistant NOTES  
-- ImageMaskLabelAssistant - [ImageMaskLabelAssistant](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/blob/82f0af09f44a2e0ef55c782f6315134fdf2fe4d0/test_label_demo.gif)
+- ImageMaskLabelAssistant - [ImageMaskLabelAssistant](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/tree/main/release/alpha%20version%201.0.0)
 ```bash
  Science is a wonderful thing, if one has no need to make a living of it.     ——  by 爱因斯坦
  
