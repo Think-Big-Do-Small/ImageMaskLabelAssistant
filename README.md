@@ -33,8 +33,6 @@
 # ImageMaskLabelAssistant
 ### Image Mask Labeling Assistant with OpenCV Toolkit and PyQt.
 
-![GithubHeader](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/blob/82f0af09f44a2e0ef55c782f6315134fdf2fe4d0/test_label_demo.gif)
-# ImageMaskLabelAssistant
 NOTES. <br><br>
 Run Programs with opencv and pyqt. 
 
