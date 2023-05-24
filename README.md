@@ -1,5 +1,5 @@
 ![GithubHeader](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant/blob/82f0af09f44a2e0ef55c782f6315134fdf2fe4d0/test_label_demo.gif)
-# ImageMaskLabelAssistant (图像数据集标注助手)
+# ImageMaskPolygonLabelAssistant (图像数据集多边形标注助手)
 - Label an image to generate masks with just several steps of mouse click.<br>
 - With this polygon labeling tool, generating a custom image dataset for deep learning pipeline is much more easier. <br>
 - I believe you will love it, if you continue to find new tricks of this tool. <br>
